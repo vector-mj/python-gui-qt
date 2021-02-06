@@ -1,0 +1,3 @@
+{
+    "files": ["customBtn.qml","qml/pages/item.qml","main.qml","qml/pages/setting.qml","qml/pages/home.qml","qml/contorls/BtnLeft.qml","qml/contorls/CustomBtnMenu.qml","main.py"]
+}
